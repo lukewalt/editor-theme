@@ -1,10 +1,27 @@
 {
 	"name": "Fractal Dark",
 	"colors": {
+		"titleBar.activeBackground": "#000000",
 		"editor.background": "#060621",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#cc6400",
-		"sideBarTitle.foreground": "#009bda"
+		"editor.foreground": "#00dacb",
+		"activityBar.background": "#060621",
+		"activityBarBadge.background": "#00dacb",
+		"activityBar.foreground": "#90fffd",
+		"activityBar.activeBackground": "#00dacb57",
+		"activityBar.activeFocusBorder": "#00dacb",
+		"activityBar.activeBorder": "#ffc300",
+		"sideBar.background": "#060621",
+		"sideBar.foreground": "#6c87ad",
+		"sideBarSectionHeader.background": "#002f42",
+		"sideBar.border": "#00dacb",
+		"sideBarTitle.foreground": "#00dacb",
+		"sideBarSectionHeader.border": "#00dacb",
+		"sideBarSectionHeader.foreground": "#00dacb",
+		"scrollbarSlider.background": "#00dacb61",
+		"tab.inactiveBackground":"#ffffff00",
+		"tab.activeBackground": "#00dacb57",
+		"tab.border": "#ffc300",
+		"statusBar.background": "#d45500",
 	},
 	"tokenColors": [
 		{

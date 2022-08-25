@@ -1,7 +1,7 @@
 {
 	"name": "Fractal Dark",
 	"colors": {
-		"titleBar.activeBackground": "#000000",
+		"titleBar.activeBackground": "#060621",
 		"editor.background": "#060621",
 		"editor.foreground": "#00dacb",
 		"activityBar.background": "#060621",
@@ -11,17 +11,19 @@
 		"activityBar.activeFocusBorder": "#00dacb",
 		"activityBar.activeBorder": "#ffc300",
 		"sideBar.background": "#060621",
-		"sideBar.foreground": "#6c87ad",
+		"sideBar.foreground": "#b2fffb",
 		"sideBarSectionHeader.background": "#002f42",
 		"sideBar.border": "#00dacb",
 		"sideBarTitle.foreground": "#00dacb",
 		"sideBarSectionHeader.border": "#00dacb",
 		"sideBarSectionHeader.foreground": "#00dacb",
 		"scrollbarSlider.background": "#00dacb61",
-		"tab.inactiveBackground":"#ffffff00",
+		"tab.inactiveBackground": "#060621",
 		"tab.activeBackground": "#00dacb57",
-		"tab.border": "#ffc300",
-		"statusBar.background": "#d45500",
+		"tab.activeForeground": "#00dacb",
+		"tab.inactiveForeground": "#b2fffb",
+		"editorGroupHeader.tabsBackground": "#060621",
+		"statusBar.background": "#d45500"
 	},
 	"tokenColors": [
 		{
@@ -32,7 +34,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#494968"
 			}
 		},
 		{
@@ -92,7 +94,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#009bda"
+				"foreground": "#70caff"
 			}
 		},
 		{
@@ -117,7 +119,7 @@
 			],
 			"settings": {
 				"foreground": "#ffc300",
-				"fontStyle": "bold underline",
+				"fontStyle": "bold",
 			}
 		},
 		{
@@ -126,7 +128,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffffff",
 			}
 		},
 		{
@@ -184,7 +186,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B",
+				"foreground": "#ffd791",
 				"fontStyle": "italic"
 			}
 		},
@@ -269,7 +271,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#ffd791"
 			}
 		},
 		{
@@ -278,7 +280,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffd791"
 			}
 		},
 		{
@@ -323,7 +325,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#009bda"
+				"foreground": "#70caff"
 			}
 		},
 		{
@@ -332,7 +334,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#009bda"
+				"foreground": "#70caff"
 			}
 		},
 		{
@@ -382,7 +384,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffd791"
 			}
 		},
 		{
@@ -575,7 +577,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffd791"
 			}
 		},
 		{

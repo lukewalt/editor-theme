@@ -1,0 +1,21 @@
+{
+  "name": "fractal-dark",
+  "displayName": "Fractal Dark",
+  "description": "my personal custom theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fractal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fractal Dark-color-theme.json"
+      }
+    ]
+  }
+}

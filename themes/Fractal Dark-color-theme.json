@@ -23,7 +23,13 @@
 		"tab.activeForeground": "#00dacb",
 		"tab.inactiveForeground": "#b2fffb",
 		"editorGroupHeader.tabsBackground": "#060621",
-		"statusBar.background": "#d45500"
+		"terminal.ansiBrightRed": "#ff7700",
+		"terminal.ansiRed": "#ff7700",
+		"terminal.ansiBlue": "#70caff",
+		"terminal.ansiBrightBlue": "#70caff",
+		"terminal.ansiCyan": "#00dacb",
+		"terminal.ansiBrightCyan": "#00dacb",
+		"statusBar.background": "#ff7700"
 	},
 	"tokenColors": [
 		{
